@@ -1,10 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a simple blog created using markdown and Nextjs
 
 ## Getting Started
 
-First, run the development server:
+First, clone the repository:
 
 ```bash
+npm install
 npm run dev
 # or
 yarn dev
